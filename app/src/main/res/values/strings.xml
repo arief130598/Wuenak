@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wuenak</string>
+    <string name="login_top_background">Top Background</string>
+    <string name="login_quote">Discover your new favourite dish with our affordable, simple, and nutritious recipes, featuring sumptuous starters, mouth-watering mains, and delicious desserts.</string>
+    <string name="login_Login">Login</string>
+    <string name="login_description_food_image">Food Image Login</string>
+    <string name="login_facebook">Login with Facebook</string>
+    <string name="login_google">Login with Google</string>
+    <string name="login_or">or</string>
+</resources>

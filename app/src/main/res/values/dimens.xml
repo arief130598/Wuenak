@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default32dp">32dp</dimen>
+    <dimen name="default24dp">24dp</dimen>
+    <dimen name="default16dp">16dp</dimen>
+    <dimen name="default12dp">12dp</dimen>
+    <dimen name="default8dp">8dp</dimen>
+    <dimen name="default4dp">4dp</dimen>
+
+    <dimen name="h1">36sp</dimen>
+    <dimen name="h2">24sp</dimen>
+</resources>
