@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Wuenak</string>
 
+    <!-- Facebook Login -->
+    <string name="facebook_app_id">510630549853551</string>
+    <string name="fb_login_protocol_scheme">fb510630549853551</string>
+
     <!-- Login Activity -->
     <string name="login_quote">Discover your new favourite dish with our affordable, simple, and nutritious recipes, featuring sumptuous starters, mouth-watering mains, and delicious desserts.</string>
     <string name="login_description_food_image">Food Image Login</string>
