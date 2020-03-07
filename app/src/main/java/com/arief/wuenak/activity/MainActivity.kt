@@ -1,8 +1,7 @@
-package com.arief.wuenak.Activity
+package com.arief.wuenak.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Button
 import com.arief.wuenak.R
 
 class MainActivity : AppCompatActivity() {

@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/intro_background3"
-    tools:context=".Fragment.IntroSlider3">
+    tools:context=".fragment.IntroSlider3">
 
     <TextView
         android:id="@+id/title"

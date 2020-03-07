@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "604440732339",
+    "firebase_url": "https://wuenak-13.firebaseio.com",
+    "project_id": "wuenak-13",
+    "storage_bucket": "wuenak-13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604440732339:android:be815ca607906d8fee46c6",
+        "android_client_info": {
+          "package_name": "com.arief.wuenak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604440732339-ci9asrkop30ahhg8euhchdmga7ki5au4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arief.wuenak",
+            "certificate_hash": "c33edc46bea41c3e8e6e3b3d0cdf885145bd72fd"
+          }
+        },
+        {
+          "client_id": "604440732339-1jt6g2771kvi513i9sclhmvc3658bstk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOa1VuKLfhluHDkna5St_HUr1A9F3b81Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604440732339-1jt6g2771kvi513i9sclhmvc3658bstk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,8 +1,8 @@
-package com.arief.wuenak.SharedPreference
+package com.arief.wuenak.sharedpreference
 
 import android.content.Context
 import android.content.SharedPreferences
-import com.arief.wuenak.Static.StaticConfiguration
+import com.arief.wuenak.static.StaticConfiguration
 
 class IntroPreference (context: Context) {
 

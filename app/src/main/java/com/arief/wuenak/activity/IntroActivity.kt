@@ -1,14 +1,12 @@
-package com.arief.wuenak.Activity
+package com.arief.wuenak.activity
 
 import android.content.Intent
-import android.graphics.Color
 import android.os.Bundle
 import androidx.fragment.app.Fragment
-import com.arief.wuenak.Fragment.IntroSlider1
-import com.arief.wuenak.Fragment.IntroSlider2
-import com.arief.wuenak.Fragment.IntroSlider3
-import com.arief.wuenak.R
-import com.arief.wuenak.SharedPreference.IntroPreference
+import com.arief.wuenak.fragment.IntroSlider1
+import com.arief.wuenak.fragment.IntroSlider2
+import com.arief.wuenak.fragment.IntroSlider3
+import com.arief.wuenak.sharedpreference.IntroPreference
 import com.github.paolorotolo.appintro.AppIntro2
 
 class IntroActivity : AppIntro2() {
@@ -48,5 +46,6 @@ class IntroActivity : AppIntro2() {
     private fun finishIntro(){
         val goLogin = Intent(this, LoginActivity::class.java)
         startActivity(goLogin)
+        finish()
     }
 }

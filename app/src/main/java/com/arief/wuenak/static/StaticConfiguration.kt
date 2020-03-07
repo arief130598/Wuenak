@@ -1,4 +1,4 @@
-package com.arief.wuenak.Static
+package com.arief.wuenak.static
 
 class StaticConfiguration {
 
