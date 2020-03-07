@@ -4,4 +4,8 @@
     <color name="colorPrimaryDark">#00bce6</color>
     <color name="colorAccent">#00D1FF</color>
     <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGray">#4B4B4B</color>
+    <color name="colorSlider1">#040604</color>
+    <color name="colorSlider2">#613B17</color>
+    <color name="colorSlider3">#D0D5DA</color>
 </resources>

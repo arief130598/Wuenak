@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/intro_background3"
+    tools:context=".Fragment.IntroSlider3">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|top"
+        android:layout_marginTop="@dimen/default56dp"
+        android:fontFamily="@font/roboto_condensed_regular"
+        android:text="@string/intro_slider3_title"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/colorGray"
+        android:textSize="@dimen/slidertitle" />
+
+    <TextView
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|start"
+        android:layout_marginStart="@dimen/default32dp"
+        android:layout_marginBottom="@dimen/default64dp"
+        android:fontFamily="@font/roboto_condensed_regular"
+        android:text="@string/intro_slider3_quotes"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/slidertext" />
+
+</FrameLayout>

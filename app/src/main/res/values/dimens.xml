@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="default84dp">84dp</dimen>
+    <dimen name="default64dp">64dp</dimen>
+    <dimen name="default56dp">56dp</dimen>
+    <dimen name="default48dp">48dp</dimen>
     <dimen name="default32dp">32dp</dimen>
     <dimen name="default24dp">24dp</dimen>
     <dimen name="default16dp">16dp</dimen>
-    <dimen name="default12dp">12dp</dimen>
-    <dimen name="default8dp">8dp</dimen>
-    <dimen name="default4dp">4dp</dimen>
 
     <dimen name="h1">36sp</dimen>
     <dimen name="h2">24sp</dimen>
+    <dimen name="h3">20sp</dimen>
+
+    <dimen name="slidertitle">32sp</dimen>
+    <dimen name="slidertext">24sp</dimen>
 </resources>

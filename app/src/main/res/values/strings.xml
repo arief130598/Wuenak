@@ -1,10 +1,20 @@
 <resources>
     <string name="app_name">Wuenak</string>
-    <string name="login_top_background">Top Background</string>
+
+    <!-- Login Activity -->
     <string name="login_quote">Discover your new favourite dish with our affordable, simple, and nutritious recipes, featuring sumptuous starters, mouth-watering mains, and delicious desserts.</string>
-    <string name="login_Login">Login</string>
     <string name="login_description_food_image">Food Image Login</string>
     <string name="login_facebook">Login with Facebook</string>
     <string name="login_google">Login with Google</string>
-    <string name="login_or">or</string>
+    <string name="login_find_new_recipes">Ready to find new recipes?</string>
+    <string name="login_start">Start now!</string>
+
+    <!-- Fragment Intro -->
+    <string name="intro_slider1_title">Healthy Recipes</string>
+    <string name="intro_slider1_quotes"><![CDATA[Healthy & easy recipes for meals, snacks, salads, desserts & drinks!]]></string>
+    <string name="intro_slider2_title">Easy Recipes</string>
+    <string name="intro_slider2_quotes">These super easy recipes are here to help you get you and your family fed in 30 minutes or less.</string>
+    <string name="intro_slider3_title">Share Your Recipes</string>
+    <string name="intro_slider3_quotes">Find and share everyday cooking inspiration.</string>
+
 </resources>
